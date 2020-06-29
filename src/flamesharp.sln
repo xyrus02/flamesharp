@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Ktrix.Flamesharp", "lib\Net.Ktrix.Flamesharp\Net.Ktrix.Flamesharp.csproj", "{7ED98200-FD49-4BFC-B9FB-8297A4155206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Ktrix.Flamesharp.Cli", "main\Net.Ktrix.Flamesharp.Cli\Net.Ktrix.Flamesharp.Cli.csproj", "{A56B1C75-B7A5-4931-A882-AEADC4FE6C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED98200-FD49-4BFC-B9FB-8297A4155206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED98200-FD49-4BFC-B9FB-8297A4155206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED98200-FD49-4BFC-B9FB-8297A4155206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED98200-FD49-4BFC-B9FB-8297A4155206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56B1C75-B7A5-4931-A882-AEADC4FE6C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56B1C75-B7A5-4931-A882-AEADC4FE6C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56B1C75-B7A5-4931-A882-AEADC4FE6C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56B1C75-B7A5-4931-A882-AEADC4FE6C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

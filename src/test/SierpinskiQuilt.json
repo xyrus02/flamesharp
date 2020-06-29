@@ -1,0 +1,57 @@
+﻿{
+	"cmap": "rgb( abs(sin(x * pi * 13)) * 0.5 + 0.25, abs(cos(x * pi * 7)) * 0.33333 + 0.33333,  0.28 + abs(sin(x * pi * 29)) * 0.54 )",
+	"transforms": [
+		{
+			"colorOffset": 1,
+			"colorSpread": -0.2,
+			"matrix": {
+				"data": "1 0 0 1 -1 -1"
+			},
+			"variations": [
+				{
+					"class": "linear",
+					"weight": 0.5
+				}
+			]
+		},
+		{
+			"colorOffset": 0,
+			"colorSpread": 0.2,
+			"matrix": {
+				"data": "1 0 0 1 1 -1"
+			},
+			"variations": [
+				{
+					"class": "linear",
+					"weight": 0.5
+				}
+			]
+		},
+		{
+			"colorOffset": 0,
+			"colorSpread": 0.2,
+			"matrix": {
+				"data": "1 0 0 1 -1 1"
+			},
+			"variations": [
+				{
+					"class": "linear",
+					"weight": 0.5
+				}
+			]
+		},
+		{
+			"colorOffset": 1,
+			"colorSpread": -0.2,
+			"matrix": {
+				"data": "1 0 0 1 1 1"
+			},
+			"variations": [
+				{
+					"class": "linear",
+					"weight": 0.5
+				}
+			]
+		}
+	]
+}

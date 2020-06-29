@@ -1,0 +1,40 @@
+﻿{
+	"transforms": [
+		{
+			"colorOffset": 1.0,
+			"matrix": {
+				"data": "1 0 0 1 -1 -1"
+			},
+			"variations": [
+				{
+					"class": "linear",
+					"weight": 0.5
+				}
+			]
+		},
+		{
+			"colorOffset": 1.0,
+			"matrix": {
+				"data": "1 0 0 1 1 -1"
+			},
+			"variations": [
+				{
+					"class": "linear",
+					"weight": 0.5
+				}
+			]
+		},
+		{
+			"colorOffset": 1.0,
+			"matrix": {
+				"data": "1 0 0 1 0 1"
+			},
+			"variations": [
+				{
+					"class": "linear",
+					"weight": 0.5
+				}
+			]
+		}
+	]
+}

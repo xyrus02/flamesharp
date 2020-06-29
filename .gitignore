@@ -1,0 +1,12 @@
+# Dot-Folders
+.*/
+
+# Avoid committing outputs
+src/*.png
+
+# User files
+*.user
+
+# Compile output
+bin/
+obj/
