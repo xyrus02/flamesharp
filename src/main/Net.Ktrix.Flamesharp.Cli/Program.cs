@@ -118,7 +118,7 @@ namespace Net.Ktrix.Flamesharp.Cli
 				var pad = Console.WindowWidth;
 
 				Console.Write("".PadRight(pad));
-				Console.Write($@" FlameSharp Analytics Utility - {Path.GetFileName(FormulaFile)}".PadRight(pad));
+				Console.Write($@" FlameSharp - {Path.GetFileName(FormulaFile)}".PadRight(pad));
 
 				using (WithColor(ConsoleColor.Yellow))
 				{
